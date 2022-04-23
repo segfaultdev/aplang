@@ -1,0 +1,6 @@
+- 1: executable must be called 'a.in' and shall be ran from the current directory
+- 2: too many arguments passed to the aplang just-in-time runner, expected none(use stdin you fuck)
+- 4: lowercase letter found
+- 5: invalid statement starter
+- 6: fluctuating name not found
+- 
